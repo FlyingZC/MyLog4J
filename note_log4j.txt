@@ -1,0 +1,8 @@
+160918
+1.jar
+2.项目下log4j.properties
+3.com.zc.log下TestLog.java
+设置日志内容
+
+4.
+日志信息的优先级从高到低有ERROR、WARN、 INFO、DEBUG
